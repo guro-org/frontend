@@ -8,6 +8,12 @@ yarn 을 설치합니다.
 npm i -g yarn
 ```
 
+혹은
+
+```
+brew install yarn
+```
+
 yarn 이 설치되어 있다면 아래의 명령어를 실행해 패키지를 설치합니다
 
 ```
